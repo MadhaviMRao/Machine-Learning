@@ -1,5 +1,5 @@
 
-# Forest Cover Analaysis
+# Forest Cover Analysis and Prediction
 
 ![image.jpg](images/forest2.jpg)
 
