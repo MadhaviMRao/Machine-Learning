@@ -95,15 +95,15 @@ EDA is the practice of describing the data by means of statistical and visualiza
 
 This is a significant step to take before diving we diev into implementing machine learning models.
 
-![image.jpg](images/Covertype.jpg)
+![image.jpg](images/Covertype.JPG)
 
 All the seven Forest Cover Types are equally represented in the data.
 
-![image.jpg](images/elevation.jpg)
+![image.jpg](images/elevation.JPG)
 
-Features like elevation Various Cover Types.
+Features like elevation represent good demarcation of Cover Types.
 
-![image.jpg](images/corr.jpg)
+![image.jpg](images/corr.JPG)
 
 We see that there are features that are positively correlated as well as features that are negatively correlated.
 
