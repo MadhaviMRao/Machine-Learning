@@ -93,28 +93,32 @@ The  set (15120 observations) contains both features and the Cover_Type.
 
 EDA is the practice of describing the data by means of statistical and visualization techniques to bring important aspects of that data into focus for further analysis. This involves looking at your data set from many angles, describing it, and summarizing it without making any assumptions about its contents. 
 
-This is a significant step to take before diving we diev into implementing machine learning models.
+This is a significant step to take before diving into implementing machine learning models.
 
 ![image.jpg](images/Covertype.JPG)
 
 All the seven Forest Cover Types are equally represented in the data.
 
+
 ![image.jpg](images/elevation.JPG)
 
 Features like elevation represent good demarcation of Cover Types.
+
 
 ![image.jpg](images/corr.JPG)
 
 We see that there are features that are positively correlated as well as features that are negatively correlated.
 
 
+
 ![image.jpg](images/wilderness.png)
 
-Wilderness area type 3 covers almost all the forest cover types excepting cover 4.
+* Wilderness area type 3 covers almost all the forest cover types excepting cover 4.
 
-Wilderness ares type 2 has very less representation of forest covers.
+* Wilderness ares type 2 has very less representation of forest covers.
 
-Cover Type 4 is found only in the Wilderness type 4.
+* Cover Type 4 is found only in the Wilderness type 4.
+
 
 
 There are some more visualizations , which you can view in my jupyter notebook.
