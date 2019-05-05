@@ -40,23 +40,23 @@ EDA is the practice of describing the data by means of statistical and visualiza
 
 This is a significant step to take before diving we dive into implementing machine learning models.
 
-![image.jpg](images/xbox.jpg)
+![image.jpg](images/xbox.JPG)
 
 x-box values is highest for W and then for M for obvious reasons of them being wider letters. This value is lowest for I.
 
 
-![image.jpg](images/width.jpg)
+![image.jpg](images/width.JPG)
 
 Width and x- box are quite similar in patterns for all the letters.
 
 
-![image.jpg](images/onpix.jpg)
+![image.jpg](images/onpix.JPG)
 
 
 Across all fonts letter M has the maximum no of pixels.
 
 
-![image.jpg](images/corr.jpg)
+![image.jpg](images/corr.JPG)
 
 x-box and width, y-box and high are highly correlated.
 
@@ -70,6 +70,8 @@ Since this is a classification problem of classifying fonts into one of the 26 l
 Accuracy score could be one good metric for testing the models.
 
 Post going through  implementing various models, I have seen that the accuracy of the models is better when support Vector Machines is implemented.
+
+![image.jpg](images/svc.JPG)
 
 __Support Vector Classifer__ is giving the highest accuracy compared to other models with  score of "__96 %__"  hence we choose the algorithm for letter prediction.
 
